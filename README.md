@@ -4,4 +4,4 @@
 - 😄 Pronouns: Him / His
 - ⚡ Fun fact: I'm currently studying in the of Limoges IUT in France for a BUT in computer science
 
-I have another personnal account with further projects : [flastar-fr](https://github.com/flastar-fr)
+I have another personnal account with more projects : [flastar-fr](https://github.com/flastar-fr)
