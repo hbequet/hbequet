@@ -15,7 +15,7 @@ Véhiculé.
 ## Expérience
 
 ### Stagiaire développeur Python (R&D) · APEX solutions · avril – juin 2026 (10 semaines)
-MVP d'un simulateur physique (TSUNAMI) en Python, calculant les effets d'une explosion sous-marine.
+MVP d'un simulateur physique (TSUNAMI) en Python.
 
 - Temps d'exécution de la simulation divisé par 150 (0,018 s en moyenne), grâce au profiling avec `cProfile`
 - Refonte en Data-Oriented Design : passage d'un format AoS à une structure SoA avec NumPy
